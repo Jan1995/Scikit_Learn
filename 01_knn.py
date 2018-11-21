@@ -46,7 +46,7 @@ best_accuracy = 0
 for k in range(3, 10):
     for p in range(1, 11):
         # 实例化一个kNN模型, 为加快运算速度使n_jobs=-1(使用CPU所有核运算)
-        knn_clf2 = KNeighborsClassifier(n_neighbors=6, weights='distance',p=2,n_jobs=-1)
+        knn_clf2 = KNeighborsClassifier(n_neighbors=k, weights='distance',p=p,n_jobs=-1)
         # 将该KNN模型在训练数据集上进行训练
         knn_clf2.fit(X_train, y_train)
         #在测试数据集上检测下模型的准确度
