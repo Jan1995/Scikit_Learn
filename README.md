@@ -1,5 +1,6 @@
 # Scikit_Learn
 
+## 万水千山总是情，给个 star 行不行?
 ## 此系列共10篇，教你轻松玩转 Scikit-Learn 
 
 ### 更新ing
