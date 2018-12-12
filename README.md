@@ -5,7 +5,7 @@
 
 ### 更新ing
 
-- 轻松玩转 Scikit-Learn 系列 —— KNN 算法 
+- 轻松玩转 Scikit-Learn 系列 —— KNN 算法
   文章链接：https://mp.weixin.qq.com/s/_J5hqKp4HZqX16lHdIgeDw
 
 - 轻松玩转 Scikit-Learn 系列 —— 线性回归以及机器学习相关评价标准
