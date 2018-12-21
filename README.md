@@ -26,3 +26,21 @@
   文章链接：https://mp.weixin.qq.com/s/9gqdPS3f3Xi1bpLEytgrWw
 
 - 轻松玩转 Scikit-Learn 系列 —— 逻辑回归
+
+  文章链接：https://mp.weixin.qq.com/s/8AGOyUUnkklGpuh33ZPW1g
+  
+- 轻松玩转 Scikit-Learn 系列 —— 模型评估
+
+  文章链接：
+  
+- 轻松玩转 Scikit-Learn 系列 —— 支持向量机
+
+  文章链接：
+  
+- 轻松玩转 Scikit-Learn 系列 —— 决策树
+
+  文章链接：
+
+- 轻松玩转 Scikit-Learn 系列 —— 集成学习
+
+  文章链接：
